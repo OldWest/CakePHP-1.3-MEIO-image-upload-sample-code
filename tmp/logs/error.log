@@ -1,0 +1,8 @@
+2010-08-20 06:14:06 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 06:15:46 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 06:16:33 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 06:19:50 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 06:20:16 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 06:20:16 Warning: Warning (2): preg_match() expects parameter 2 to be string, array given in [C:\wamp\www\cakephp\cakephp-cakephp-60ab980\cake\libs\validation.php, line 946]
+2010-08-20 06:22:47 Warning: Warning (512): MeioUploadBehavior Error: The field "default.jpg" doesn't exists in the model "Image". in [C:\wamp\www\simple_cake_gallery\models\behaviors\meio_upload.php, line 223]
+2010-08-20 07:40:00 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [C:\wamp\www\cakephp\cakephp-cakephp-60ab980\cake\libs\view\helpers\form.php, line 713]
